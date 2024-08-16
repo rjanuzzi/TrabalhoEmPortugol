@@ -56,7 +56,7 @@ Registrar e calcular as horas trabalhadas pelos colaboradores.
 <div align="center">
 
 ## **Realizado pelo Grupo 05**
-
+---
 
 
 **Rafael**  
@@ -67,7 +67,7 @@ Registrar e calcular as horas trabalhadas pelos colaboradores.
 **Victor Hugo**
 
 
-
+---
 ## **Serratec - 2024**
 
 </div>
