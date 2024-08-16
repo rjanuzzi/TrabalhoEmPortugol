@@ -49,12 +49,19 @@ Registrar e calcular as horas trabalhadas pelos colaboradores.
 
 ---
 
+---
+
 <p align="center">
   <strong>Realizado pelo Grupo 05</strong>
 </p>
 
 <p align="center">
-  Rafael &bull; Renan &bull; Thamires &bull; Tiago &bull; Vitor &bull; Victor Hugo
+  Rafael <br>
+  Renan <br>
+  Thamires <br>
+  Tiago <br>
+  Vitor <br>
+  Victor Hugo
 </p>
 
 <p align="center">
