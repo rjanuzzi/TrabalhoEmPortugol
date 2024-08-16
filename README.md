@@ -43,3 +43,17 @@ Registrar e calcular as horas trabalhadas pelos colaboradores.
 
 ---
 
+---
+
+### Realizado pelo Grupo 05
+
+- **Rafael**
+- **Renan**
+- **Thamires**
+- **Tiago**
+- **Vitor**
+- **Victor Hugo**
+
+**Serratec - 2024**
+
+
