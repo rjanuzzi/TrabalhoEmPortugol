@@ -63,6 +63,9 @@ Registrar e calcular as horas trabalhadas pelos colaboradores.
 </div>
 
 
+# Autores
 
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Rafael Januzzi</sub>](https://github.com/rjanuzzi) |
+| :---: | :---: | :---: |
 
 
