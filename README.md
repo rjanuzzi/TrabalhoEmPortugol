@@ -41,17 +41,7 @@ Registrar e calcular as horas trabalhadas pelos colaboradores.
 - **Cálculo de Horas:** Calcular o total de horas trabalhadas com base nos horários registrados.
 - **Relatório:** Gerar um relatório das horas trabalhadas por colaborador.
 
----
 
----
-
----
-
----
-
----
-
----
 
 <div align="center">
 
