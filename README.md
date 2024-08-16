@@ -1,4 +1,4 @@
-#### Programa de Departamento Pessoal em Portugol
+# Programa de Departamento Pessoal em Portugol
 
 Este projeto tem como objetivo implementar três funcionalidades essenciais para um sistema de Departamento Pessoal: Cadastro de Colaboradores, Cálculo de Folha de Pagamento e Controle de Ponto.
 
