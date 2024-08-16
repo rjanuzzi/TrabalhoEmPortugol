@@ -64,7 +64,7 @@ Registrar e calcular as horas trabalhadas pelos colaboradores.
 **Vitor**  
 **Victor Hugo**
 
-##**Serratec - 2024**
+## **Serratec - 2024**
 
 </div>
 
