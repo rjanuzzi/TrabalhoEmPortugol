@@ -1,5 +1,6 @@
-<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 # Programa de Departamento Pessoal em Portugol
+
+<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 
 Este projeto tem como objetivo implementar três funcionalidades essenciais para um sistema de Departamento Pessoal: Cadastro de Colaboradores, Cálculo de Folha de Pagamento e Controle de Ponto.
 
